@@ -10,7 +10,7 @@ This is a **complete website package** for **BBC News - UK & World Stories**, au
 - **App Name**: BBC News - UK & World Stories
 - **Developer**: BBC Media Applications Technologies Limited
 - **Template**: apple
-- **Generated**: 2025-06-17T08:37:17.868Z
+- **Generated**: 2025-06-17T08:40:40.842Z
 
 ## 🚀 Quick Deploy
 
